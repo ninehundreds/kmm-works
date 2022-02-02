@@ -9,7 +9,7 @@
 * [Xcode 11.3 or higher](https://apps.apple.com/us/app/xcode/id497799835)
 * [Android Studio 4.2 or 2020.3.1 Canary 8 or higher](https://developer.android.com/studio)
 * [Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile)
-* [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+* [JDK 11+](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 #### Getting Started
 Make sure you clone the repo in advance of the workshop:
