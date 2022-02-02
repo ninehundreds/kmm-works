@@ -24,7 +24,7 @@ Enter the newly cloned project directory, and checkout the network starter branc
   git checkout workshop/network-starter
   ```
 
-This workshop will introduce Kotlin Multiplatform Mobile, and review it's intended purpose and capabilities. We will also discuss its benefits, as well as drawbacks.
+This workshop will introduce Kotlin Multiplatform Mobile, and review it's intended purpose and capabilities. We will also discuss its benefits, as well as drawbacks. Hands-on segments will consist of:
 1. Project Creation / Dependency Management
 2. Project Structure
 3. Networking with [Ktor](https://ktor.io/) 
@@ -36,10 +36,10 @@ This workshop will introduce Kotlin Multiplatform Mobile, and review it's intend
 
 
 ### Workshop 2 - Databases and Other Disappointments
-This workshop will carry on from the previous workshop, and introduce options for persisting data locally using KMM. 
-1. Choosing a database or ORM
-2. Local persistence with SQLDelight
-3. Local persistence with Realm
+This workshop will carry on from the previous workshop, and introduce options for persisting data locally using KMM. Hands-on segments will consist of:
+1. Implementing local persistence with SQLDelight
+2. Implementing local persistence with Realm
+3. Interacting with local persistence in the clients
 
 ### Branch Reference
 * workshop/network-starter branch: consists of starter template, with ktor and serialization dependencies. 
