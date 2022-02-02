@@ -14,7 +14,7 @@
 #### Getting Started
 Make sure you clone the repo in advance of the workshop:
   ```sh
-  git clone git@github.com:ninehundreds/kmm-works.git
+  git clone https://github.com/ninehundreds/kmm-works.git
   ```
 
 ### Workshop 1 - Introduction and Basic Networking 
