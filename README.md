@@ -18,6 +18,12 @@ Make sure you clone the repo in advance of the workshop:
   ```
 
 ### Workshop 1 - Introduction and Basic Networking 
+Enter the newly cloned project directory, and checkout the network starter branch:
+  ```sh
+  cd kmm-works
+  git checkout workshop/network-starter
+  ```
+
 This workshop will introduce Kotlin Multiplatform Mobile, and review it's intended purpose and capabilities. We will also discuss its benefits, as well as drawbacks.
 1. Project Creation
 2. Dependency Management
