@@ -28,8 +28,8 @@ This workshop will introduce Kotlin Multiplatform Mobile, and review it's intend
 1. Project Creation / Dependency Management
 2. Project Structure
 3. Networking with [Ktor](https://ktor.io/) 
-    - Model and interface definitions
-    - Repositories and CRUD
+    - Model and interface definitions (CRUD)
+    - Service and HTTP client functions / implementation 
     - Service interaction from the iOS client
     - Service interaction from the Android client
 4. Hackathon Challenge
