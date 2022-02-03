@@ -39,6 +39,9 @@ kotlin {
                 implementation("io.ktor:ktor-client-json:$ktorVersion")
                 implementation("io.ktor:ktor-client-serialization:$ktorVersion")
                 implementation("io.ktor:ktor-client-auth:$ktorVersion")
+                implementation("io.ktor:ktor-client-logging:$ktorVersion")
+
+                implementation("co.touchlab:kermit:0.1.9")
             }
         }
         val commonTest by getting {
